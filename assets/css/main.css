@@ -4064,4 +4064,6 @@
 		}
 		#ipad{
 			position: absolute;
+			margin-left: 200px;
+			margin-top:-600px;
 		}
